@@ -1,0 +1,16 @@
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\bin\Debug\game of life.exe.config
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\bin\Debug\game of life.exe
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\bin\Debug\game of life.pdb
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\bin\Debug\Emgu.CV.UI.dll
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\bin\Debug\Emgu.CV.World.dll
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\bin\Debug\ZedGraph.dll
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\bin\Debug\Emgu.CV.UI.xml
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\bin\Debug\Emgu.CV.World.xml
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\obj\Debug\game of life.csprojAssemblyReference.cache
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\obj\Debug\game_of_life.Form1.resources
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\obj\Debug\game_of_life.Properties.Resources.resources
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\obj\Debug\game of life.csproj.GenerateResource.cache
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\obj\Debug\game of life.csproj.CoreCompileInputs.cache
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\obj\Debug\game of life.csproj.CopyComplete
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\obj\Debug\game of life.exe
+C:\Users\rotje\Desktop\FI 2020-2\Temas selectos\Game-of-Life\obj\Debug\game of life.pdb
